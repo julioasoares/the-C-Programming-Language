@@ -1,0 +1,6 @@
+agua
+não          é  farinha
+fim de          arquivo
+é.
+	tab também	é.
+     mas  aqui  tem  fim  de        linha e não é simples. Tipo arquivo vazio tem uma linha antes do EOF?

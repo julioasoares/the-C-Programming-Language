@@ -5,9 +5,9 @@ int main()
 {
     float fahr, celsius;
 	float lower, upper, step;
-    lower = 0; /* lower limit of temperature scale */
-	upper = 300; /* upper limit */
-	step = 20; /* step size */
+    lower = -20; /* lower limit of temperature scale */
+	upper = 42; /* upper limit */
+	step = 1; /* step size */
 	fahr = lower;
 	printf(" Cº         Fº\n---------------\n");
 	while (celsius <= upper) {
