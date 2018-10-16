@@ -23,5 +23,5 @@ $ cat ~/output.txt
 ```
 2. BACKSPACE (Linux)
 ```
-^h
+^H
 ```
