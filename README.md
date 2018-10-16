@@ -13,7 +13,7 @@ $ cat ~/input.txt
 #### File as output
 ```
 $ ./a.out >> ~/output.txt
- cat ~/output.txt
+$ cat ~/output.txt
 ```
 
 #### Typing
