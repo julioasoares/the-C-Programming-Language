@@ -25,3 +25,16 @@ $ cat ~/output.txt
 ```
 ^H
 ```
+## Useful tips
+#### Finding process ids
+``` 
+$ pgrep processname 
+```
+or
+```
+top
+```
+#### kill a process
+```
+kill process_id
+```
