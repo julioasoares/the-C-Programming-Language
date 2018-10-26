@@ -30,11 +30,11 @@ $ cat ~/output.txt
 ``` 
 $ pgrep processname 
 ```
-or
+$ or
 ```
-top
+$ top
 ```
 #### kill a process
 ```
-kill process_id
+$ kill process_id
 ```
