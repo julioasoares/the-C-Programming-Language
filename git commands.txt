@@ -1,0 +1,19 @@
+git mv Exercise_1-1.c Exercise_01-01.c 
+git mv Exercise_1-2.c Exercise_01-02.c 
+git mv Exercise_1-3.c Exercise_01-03.c 
+git mv Exercise_1-4.c Exercise_01-04.c 
+git mv Exercise_1-5.c Exercise_01-05.c 
+git mv Exercise_1-6.c Exercise_01-06.c 
+git mv Exercise_1-7.c Exercise_01-07.c 
+git mv Exercise_1-8.c Exercise_01-08.c 
+git mv Exercise_1-9.c Exercise_01-09.c 
+git mv Exercise_1-10.c Exercise_01-10.c
+git mv Exercise_1-11.c Exercise_01-11.c
+git mv Exercise_1-12.c Exercise_01-12.c
+
+git status
+
+git commit -m "Rename file or whatever the comments you want are"
+
+git push origin your-branch (your branch here is master)
+
